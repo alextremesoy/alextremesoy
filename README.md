@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alextremesoy
+- 👋 Hi, I’m Alejandro Andrade.
 - 👀 I’m interested in Software development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on a company that help me learn more.
